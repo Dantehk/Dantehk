@@ -1,41 +1,13 @@
+![Mi GIF Animado](https://tenor.com/nhv0jZUNGBl.gif)   
 <div align="center">
 
 <img src="https://media.tenor.com/REEMPLAZA_CON_TU_GIF.gif" width="800"/>
 
-# 🌑 Welcome
+# Wₑₗcₒₘₑ ₜₒ ₘy ₛₜᵤₚᵢd ₚᵣₒfᵢₗₑ
 
 ### *"𝕯𝖔𝖓´𝖙 𝕱𝖔𝖗𝖌𝖊𝖙."*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A5CFF&center=true&vCenter=true&width=700&lines=Determination+shines+within+you.;Coding+through+the+Dark+World...;Stay+determined!"/>
 
-</div>
 
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode"/>
-
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
----
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
-
-</div>
