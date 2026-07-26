@@ -1,5 +1,4 @@
-<img align="center" width="300" src="(https://media1.tenor.com/m/mMze0wQmNp0AAAAd/kris-susie.gif)" alt="GIF description">   
-<div align="center">
+<img align="center" width="300" src="(https://media1.tenor.com/m/mMze0wQmNp0AAAAd/kris-susie.gif)" alt="GIF description">   <div align="center">
 
 <img src="https://media.tenor.com/REEMPLAZA_CON_TU_GIF.gif" width="800"/>
 
