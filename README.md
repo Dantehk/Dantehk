@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/REEMPLAZA_CON_TU_GIF.gif" width="800"/>
 
-# 🌑 Welcome to my Dark World
+# 🌑 Welcome
 
 ### *"The future is in your hands."*
 
@@ -14,27 +14,15 @@
 
 ## 💜 About Me
 
-```txt
-👤 Human
-💻 Learning Programming
-🎮 Favorite Game: DELTARUNE
-📖 Manga & Comics Enjoyer
-🌙 The Dark World awaits...
+
 ```
 
 ---
 
-## ⚔️ Party Members
 
-| Character | Role |
-|-----------|------|
-| ❤️ Kris | Programmer |
-| 💜 Susie | Problem Solver |
-| 💚 Ralsei | Designer & Helper |
 
 ---
 
-## 🛠️ Skills
 
 <p align="center">
 
@@ -56,20 +44,10 @@
 
 ---
 
-## 🌌 Current Quest
-
-- 🌟 Learning new technologies
-- ⚔️ Building personal projects
-- 🎨 Improving UI Design
-- 🎮 Making game-inspired software
 
 ---
 
-<div align="center">
 
-### ⭐ SAVE POINT ⭐
-
-*"The power of coding shines within you."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
 
