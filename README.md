@@ -1,4 +1,4 @@
-![My animated GIF](https://media1.tenor.com/m/mMze0wQmNp0AAAAd/kris-susie.gif)
+<img align="center" width="400" src="(https://media1.tenor.com/m/mMze0wQmNp0AAAAd/kris-susie.gif)" alt="Descripción del GIF">   
 <div align="center">
 
 <img src="https://media.tenor.com/REEMPLAZA_CON_TU_GIF.gif" width="800"/>
