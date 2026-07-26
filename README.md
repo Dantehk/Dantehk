@@ -4,7 +4,7 @@
 
 # 🌑 Welcome
 
-### *"The future is in your hands."*
+### *"𝕯𝖔𝖓´𝖙 𝕱𝖔𝖗𝖌𝖊𝖙."*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A5CFF&center=true&vCenter=true&width=700&lines=Determination+shines+within+you.;Coding+through+the+Dark+World...;Stay+determined!"/>
 
