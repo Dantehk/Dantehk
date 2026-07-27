@@ -2,11 +2,7 @@
 <img src="https://media.tenor.com/REEMPLAZA_CON_TU_GIF.gif" width="800"/>
 <div align="center">
 
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=_BEWbq64zyU">
-<img src="https://www.youtube.com/watch?v=_BEWbq64zyU/maxresdefault.jpg" width="900">
-
+https://github.com/user-attachments/assets/https://www.youtube.com/watch?v=_BEWbq64zyU
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A5CFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+stupid+profile.;"/>
