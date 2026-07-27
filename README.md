@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A5CFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+stupid+profile.;"/>
-
 <p align="center">
   <img src="https://giphy.com/gifs/deltarune-kris-susuei-MgmTFXfBeAZ6tFcf5Z" width="700" alt="My animated GIF">
 </p>
