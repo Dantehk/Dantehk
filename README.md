@@ -2,7 +2,7 @@
 
  <img src="https://giphy.com/gifs/deltarune-kris-susuei-MgmTFXfBeAZ6tFcf5Z" width="700" alt="My animated GIF">
 </p> 
-<p align="center">
+<div align="center">
  
   <img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="500" alt="My animated GIF">
 </p>
