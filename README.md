@@ -4,7 +4,7 @@
 </p> 
 <p align="center">
  
-<img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="500" alt="My animated GIF">
+  <img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="500" alt="My animated GIF">
 </p>
 <img src="https://media.tenor.com/REEMPLAZA_CON_TU_GIF.gif" width="800"/>
 <div align="center">
