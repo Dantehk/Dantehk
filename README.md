@@ -1,8 +1,8 @@
-p align="center">
+palign="center">
   <video src="https://github.com/user-attachments/assets/https://github.com/Dantehk/Dantehk/issues/1#issue-4983236534"
          width="850"
          controls>
-  </video>
+  </https://github.com/Dantehk/Dantehk/issues/1#issue-4983236534>
 </p>
 
 ![My animated GIF](https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp)
