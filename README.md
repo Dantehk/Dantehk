@@ -1,4 +1,6 @@
-![My animated GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXV6bG5vaDJxdWh5bGt6MGJ2ejlhcXcyYTl1cDlqaWR3OWxqZnA4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3DOpyggJrJIqKe5jwK/giphy.gif)
+<p align="center">
+  <img src="https://![My animated GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXV6bG5vaDJxdWh5bGt6MGJ2ejlhcXcyYTl1cDlqaWR3OWxqZnA4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3DOpyggJrJIqKe5jwK/giphy.gif)" width="700" alt="My GIF">
+</p>
 
 ![My animated GIF](https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp)
 <img src="https://media.tenor.com/REEMPLAZA_CON_TU_GIF.gif" width="800"/>
