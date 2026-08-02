@@ -1,7 +1,7 @@
 
 <!-- RUNA DELTA -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=700&lines=DELTARUNE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=700&lines=Kris+Dreemurr+Lover" />
 </p>
 <!-- Banner -->
 <p align="center">
