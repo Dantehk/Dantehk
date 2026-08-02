@@ -1,5 +1,5 @@
 
-<!-- DELTARUNE -->
+<!-- RUNA DELTA -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=700&lines=DELTARUNE" />
 </p>
@@ -7,7 +7,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/1200x/e1/46/d9/e146d971aa329e23f4bc6ce638f6ce6e.jpg" width="750" alt="Deltarune Banner"/>
 </p>
-
+<p align="center">
+日本語で、なぜならそれがトビーのビジョンだからだ。
+</p>
 <!-- Texto animado -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=1000&lines=Welcome+to+my+stupid+profile." />
@@ -36,9 +38,7 @@
 
 <!-- Redes Sociales -->
 <p align="center">
-  <a href="https://www.instagram.com/dnnte.k/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@dnnte.k-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  
 
   <img src="https://img.shields.io/badge/Discord-.dante.k-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
@@ -46,5 +46,5 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=900&lines=Deltarune+Tomorrow!;Stay+determined!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=900&lines=Deltarune+Tomorrow+Uwu;" />
 </p>
