@@ -1,15 +1,47 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A5CFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+stupid+profile.;"/>
+<!-- Texto animado -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/mMze0wQmNp0AAAAd/kris-susie.gif" width="500" alt="My animated GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Welcome+to+my+stupid+profile." />
 </p>
- 
-<img src="https://media.tenor.com/https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGIwdjA5cmlpa2ZlbXplaWp6ZDhxMXNrbGN2cTF3NngzMzY5eHFwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MgmTFXfBeAZ6tFcf5Z/giphy.gif" width="800"/>
-<div align="center">
-  
+
+<!-- GIFs -->
+<table align="center">
+<tr>
+<td align="left" valign="top">
+
+<img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp"
+width="140"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://media1.tenor.com/m/mMze0wQmNp0AAAAd/kris-susie.gif"
+width="500"/>
+
+</td>
+
+<td align="right" valign="top">
+
+<img src="https://media.tenor.com/Az30RgVGVXoAAAAM/ralsei-chapter-4.gif"
+width="140"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Redes Sociales -->
 <p align="center">
-  <img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="500" alt="My animated GIF">
+  <a href="https://www.instagram.com/dnnte.k/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@dnnte.k-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Discord-.dante.k-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A5CFF&center=true&vCenter=true&width=700&lines=Deltarune+Tomorrow!.;Stay+determined!"/>
 
-![My animated GIF](https://media.tenor.com/Az30RgVGVXoAAAAM/ralsei-chapter-4.gif)
+<br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Deltarune+Tomorrow+Uwu;" />
+</p>
