@@ -15,9 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=165&lines=I'm+a+little+" style="vertical-align:middle;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=2563EB&width=145&lines=OBSESSED" style="vertical-align:middle;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=590&lines=with+Deltarune,I+don't+think+it's+very+noticeable,+hehe." style="vertical-align:middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=170&lines=I'm+a+little" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=2563EB&width=105&lines=OBSESSED" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=470&lines=with+Deltarune,+I+don't+think+it's+very+noticeable,+hehe." />
+</p>
 </p>
 
 </p>
