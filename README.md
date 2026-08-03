@@ -32,7 +32,7 @@
 </p></p>
 <!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=1000&lines=Welcome+to+my+stupid+profile." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=1000&lines=Welcome,+there+is+nothing+here.." />
 </p>
 
 <!-- GIFs -->
