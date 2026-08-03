@@ -22,14 +22,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=170&lines=I'm+a+little" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=2563EB&width=105&lines=OBSESSED" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=7DD3FC&width=105&lines=OBSESSED" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=470&lines=with+Deltarune,+I+don't+think+it's+very+noticeable,+hehe." />
 </p>
-</p>
 
-</p>
 
-</p>
+<p align="center">
+<a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0143.gif" border="0" alt="mariposa-imagen-animada-0143" /></a>
 </p></p>
 <!-- Texto animado -->
 <p align="center">
@@ -67,8 +66,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=900&lines=Deltarune+Tomorrow+Uwu;" />
   
-<p align="center">
-<a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0143.gif" border="0" alt="mariposa-imagen-animada-0143" /></a>
 
 https://github.com/user-attachments/assets/da860606-716e-4c7c-b00e-97a3c8f9ec63
 
