@@ -40,11 +40,11 @@
 <tr>
 
 <td align="left" valign="top">
-<img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="200"/>
+<img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="140"/>
 </td>
 
 <td align="center">
-<img src="https://media1.tenor.com/m/OEb00yekhEQAAAAd/deltarune-dark-fountain.gif" width="600"/>
+<img src="https://media1.tenor.com/m/OEb00yekhEQAAAAd/deltarune-dark-fountain.gif" width="500"/>
 </td>
 
 <td align="right" valign="top">
