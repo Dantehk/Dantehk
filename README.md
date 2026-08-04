@@ -40,7 +40,7 @@
 <tr>
 
 <td align="left" valign="top">
-<img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="140"/>
+<img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="200"/>
 </td>
 
 <td align="center">
