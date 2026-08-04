@@ -71,6 +71,12 @@ https://github.com/user-attachments/assets/da860606-716e-4c7c-b00e-97a3c8f9ec63
 
   <a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0113.gif" border="0" alt="mini-gif-imagen-animada-0113" /></a>
 
+  <p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanE0cTAycG01bXh4bXpkb3V3a3YyMGFzdjJ2MHl5b29odTRlcXJ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWl8rUrX3gzJebetaZ/giphy.gif"
+       width="500"
+       height="140"
+       alt="GIF">
+</p>
 <p align="center">
   <a href="https://www.gifsanimados.org/cat-lineas-divisorias-134.htm">
     <img src="https://www.gifsanimados.org/data/media/134/linea-divisoria-imagen-animada-0202.gif"
