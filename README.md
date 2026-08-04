@@ -32,7 +32,7 @@
 </p></p>
 <!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=1000&lines=Welcome,+there+is+nothing+here.." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=1000&lines=Well,+there+is+nothing+here..." />
 </p>
 
 <!-- GIFs -->
@@ -44,7 +44,7 @@
 </td>
 
 <td align="center">
-<img src="https://media1.tenor.com/m/mMze0wQmNp0AAAAd/kris-susie.gif" width="500"/>
+<img src="https://media1.tenor.com/m/OEb00yekhEQAAAAd/deltarune-dark-fountain.gif" width="600"/>
 </td>
 
 <td align="right" valign="top">
