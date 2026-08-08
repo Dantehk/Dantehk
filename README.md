@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=1E3A8A&center=true&vCenter=true&width=600&lines=I+am+an+adult%2C+but+my+mind+is+that+of+a+child." />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=I+am+an+adult%2C+but+my+mind+is+that+of+a+child." />
 </p>
 
 <p align="center">
