@@ -27,6 +27,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=470&lines=with+Deltarune,+I+don't+think+it's+very+noticeable,+hehe." />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=1E3A8A&center=true&vCenter=true&width=600&lines=I+am+an+adult%2C+but+my+mind+is+that+of+a+child." />
+</p>
 
 <p align="center">
 <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0143.gif" border="0" alt="mariposa-imagen-animada-0143" /></a>
@@ -72,7 +75,7 @@ https://github.com/user-attachments/assets/752fcaf3-a161-4075-a2c7-e11d6a7f4cb7
   <a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0113.gif" border="0" alt="mini-gif-imagen-animada-0113" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=150&lines=See+yah" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=200&lines=See+yah" />
 </p>
 
 
