@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://www.gifsanimados.org/cat-lineas-divisorias-134.htm">
     <img src="https://www.gifsanimados.org/data/media/134/linea-divisoria-imagen-animada-0202.gif"
@@ -7,7 +8,7 @@
 </p>
 <!-- RUNA DELTA -->
 <p align="center">
-<a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0069.gif" border="0" alt="mariposa-imagen-animada-0069" /></a> </a> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=700&lines=Kris+Dreemurr's+Lover" /> <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0069.gif" border="0" alt="mariposa-imagen-animada-0069" /></a>
+<a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0069.gif" border="0" alt="mariposa-imagen-animada-0069" /></a> </a> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=1&pause=999999&color=1E3A8A&center=true&vCenter=true&repeat=false&width=700&lines=Kris+Dreemurr's+Lover" /> <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0069.gif" border="0" alt="mariposa-imagen-animada-0069" /></a>
 </p>
 <!-- Banner -->
 <p align="center">
@@ -64,14 +65,14 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=900&lines=Deltarune+Tomorrow+Uwu;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&speed=50&pause=2500&color=1D4ED8&center=true&vCenter=true&width=900&lines=Deltarune+Tomorrow+Uwu;" />
 
 https://github.com/user-attachments/assets/752fcaf3-a161-4075-a2c7-e11d6a7f4cb7
 
   <a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0113.gif" border="0" alt="mini-gif-imagen-animada-0113" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=120&lines=See+yah" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=150&lines=See+yah" />
 </p>
 
 
