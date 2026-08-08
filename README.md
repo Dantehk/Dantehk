@@ -30,6 +30,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=I+am+an+adult%2C+but+my+mind+is+that+of+a+child." />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=16&duration=1&pause=999999&color=60A5FA&center=true&vCenter=true&width=800&lines=I+don't+have+any+friends+on+the+%2B18+server%2C+so+I+spend+most+of+my+time+on+the+safe+server..." />
+</p>
 
 <p align="center">
 <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0143.gif" border="0" alt="mariposa-imagen-animada-0143" /></a>
