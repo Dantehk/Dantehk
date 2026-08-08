@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/752fcaf3-a161-4075-a2c7-e11d6a7f4cb7
   <a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0113.gif" border="0" alt="mini-gif-imagen-animada-0113" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=220&lines=SEE+YAH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=120&lines=See+yah" />
 </p>
 
 
