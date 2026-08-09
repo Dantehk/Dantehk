@@ -19,13 +19,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&repeat=false&color=2563EB&center=true&vCenter=true&width=900&lines=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E3%80%81%E3%81%AA%E3%81%9C%E3%81%AA%E3%82%89%E3%81%9D%E3%82%8C%E3%81%8C%E3%83%88%E3%83%93%E3%83%BC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A0%E3%81%8B%E3%82%89%E3%81%A0%E3%80%82" />
 </p>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=170&lines=I'm+a+little" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=7DD3FC&width=105&lines=OBSESSED" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=1&pause=999999&repeat=false&center=true&vCenter=true&color=1E3A8A&width=470&lines=with+Deltarune,+I+don't+think+it's+very+noticeable,+hehe." />
-</p>
+<p align="center">$\textcolor{#1E3A8A}{\textsf{I'm a little}}$  $\textcolor{#7DD3FC}{\textsf{OBSESSED}}$ $\textcolor{#1E3A8A}{\textsf{with Deltarune, i don't think it's very noticeable, hehe.}}$</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=I+am+an+adult%2C+but+my+mind+is+that+of+a+child." />
