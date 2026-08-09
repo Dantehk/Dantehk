@@ -23,11 +23,12 @@
 <p align="center">$\textcolor{#1E3A8A}{\textsf{I'm a little}}$  $\textcolor{#7DD3FC}{\textsf{OBSESSED}}$ $\textcolor{#1E3A8A}{\textsf{with Deltarune, i don't think it's very noticeable, hehe.}}$</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=I+am+an+adult%2C+but+my+mind+is+that+of+a+child." />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=Field+of+hopes+and+dreams." />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=16&duration=1&pause=999999&color=60A5FA&center=true&vCenter=true&width=800&lines=I+like+being+affectionate+with+my+friends..." />
-</p>
+
+<p align="center">$\textcolor{#89CFF0}{\textsf{a}}$ $\textcolor{#007BFF}{\textsf{person}}$ $\textcolor{#1E3A8A}{\textsf{over}}$ $\textcolor{#172554}{\textsf{18.}}$</p>
+
+<p align="center">$\textcolor{#2563EB}{\textsf{I like being a affectionate with}}$ $\textcolor{#60A5FA}{\textsf{my friends.}}$</p>
 
 <p align="center">
 <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0143.gif" border="0" alt="mariposa-imagen-animada-0143" /></a>
