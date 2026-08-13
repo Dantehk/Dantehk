@@ -26,7 +26,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=Field+of+hopes+and+dreams." />
 </p>
 
-<p align="center">$\textcolor{#89CFF0}{\textsf{a}}$ $\textcolor{#007BFF}{\textsf{person}}$ $\textcolor{#1E3A8A}{\textsf{over}}$ $\textcolor{#172554}{\textsf{18.}}$</p>
+<p align="center">$\textcolor{#1E3A8A}{\textsf{over}}$ $\textcolor{#172554}{\textsf{18.}}$</p>
 
 <p align="center">$\textcolor{#2563EB}{\textsf{I like being a affectionate with}}$ $\textcolor{#60A5FA}{\textsf{my friends.}}$</p>
 
