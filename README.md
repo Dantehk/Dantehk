@@ -26,6 +26,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=Field+of+hopes+and+dreams." />
 </p>
 
+<p align="center">
+<img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp"width="140"/>
+</p>
+
 <p align="center">$\textcolor{#1E3A8A}{\textsf{over}}$ $\textcolor{#172554}{\textsf{18.}}$</p>
 
 <p align="center">$\textcolor{#2563EB}{\textsf{I like being a affectionate with}}$ $\textcolor{#60A5FA}{\textsf{my friends.}}$</p>
@@ -38,12 +42,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=1000&lines=Well,+there's+nothing+here.." />
 </p>
 
-<!-- GIFs -->
 <table align="center">
 <tr>
 
 <td align="left" valign="top">
-<img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp" width="140"/>
+<img src="https://i.pinimg.com/1200x/8a/7f/dc/8a7fdc75805a35c85e69a581f1485d85.jpg" width="250"/>
 </td>
 
 <td align="center">
@@ -51,7 +54,7 @@
 </td>
 
 <td align="right" valign="top">
-<img src="https://media.tenor.com/Az30RgVGVXoAAAAM/ralsei-chapter-4.gif" width="140"/>
+<img src="https://i.pinimg.com/1200x/be/cd/69/becd690c584a03b876c5e6016deddb67.jpg" width="250"/>
 </td>
 
 </tr>
