@@ -50,7 +50,7 @@
 </td>
 
 <td align="center">
-<img src="https://media1.tenor.com/m/OEb00yekhEQAAAAd/deltarune-dark-fountain.gif" width="500"/>
+<img src="https://media1.tenor.com/m/OEb00yekhEQAAAAd/deltarune-dark-fountain.gif" width="450"/>
 </td>
 
 <td align="right" valign="top">
