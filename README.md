@@ -69,8 +69,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&speed=50&pause=2500&color=1D4ED8&center=true&vCenter=true&width=900&lines=Deltarune+Tomorrow+Uwu;" />
 
 https://github.com/user-attachments/assets/752fcaf3-a161-4075-a2c7-e11d6a7f4cb7
 
