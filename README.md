@@ -12,7 +12,7 @@
 </p>
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7f644927-e7cf-45b1-bb81-5fa410ec04be" width="800" alt="Deltarune Banner"/>
+  <img src="https://i.pinimg.com/1200x/02/14/d3/0214d3d3f06e06429a6d65e153de5689.jpg" width="750" alt="Deltarune Banner"/>
 </p>
 <p align="center">
 <!-- Japonés -->
@@ -22,9 +22,6 @@
 
 <p align="center">$\textcolor{#1E3A8A}{\textsf{I'm a little}}$  $\textcolor{#7DD3FC}{\textsf{OBSESSED}}$ $\textcolor{#1E3A8A}{\textsf{with Deltarune, i don't think it's very noticeable, hehe.}}$</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=Field+of+hopes+and+dreams." />
-</p>
 
 <p align="center">
 <img src="https://media.tenor.com/SgEHZXKrc5wAAAAm/fun-gang-gangnam-style.webp"width="140"/>
@@ -33,6 +30,11 @@
 <p align="center">$\textcolor{#1E3A8A}{\textsf{over}}$ $\textcolor{#172554}{\textsf{18.}}$</p>
 
 <p align="center">$\textcolor{#2563EB}{\textsf{I like being a affectionate with}}$ $\textcolor{#60A5FA}{\textsf{my friends.}}$</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=My+pony!!+dnc" />
+</p>
+<p align="center"><img width="204" height="212" alt="pony-town-,dante-dance-sit-blinking-padded-4x" src="https://github.com/user-attachments/assets/5a013005-0479-416f-b391-563a8a533d9b" />
 
 <p align="center">
 <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0143.gif" border="0" alt="mariposa-imagen-animada-0143" /></a>
@@ -57,10 +59,7 @@
 <img src="https://i.pinimg.com/1200x/be/cd/69/becd690c584a03b876c5e6016deddb67.jpg" width="250"/>
 </td>
 
-</tr>
-</table>
 
-<br>
 
 <!-- Redes Sociales -->
 <p align="center">
