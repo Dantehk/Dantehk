@@ -12,7 +12,7 @@
 </p>
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/e1/46/d9/e146d971aa329e23f4bc6ce638f6ce6e.jpg" width="750" alt="Deltarune Banner"/>
+  <img src="https://github.com/user-attachments/assets/7f644927-e7cf-45b1-bb81-5fa410ec04be" width="800" alt="Deltarune Banner"/>
 </p>
 <p align="center">
 <!-- Japonés -->
