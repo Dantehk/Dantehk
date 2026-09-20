@@ -44,29 +44,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=1000&lines=Well,+there's+nothing+here.." />
 </p>
 
-<table align="center">
-<tr>
-
-<td align="left" valign="top">
-<img src="https://i.pinimg.com/1200x/8a/7f/dc/8a7fdc75805a35c85e69a581f1485d85.jpg" width="250"/>
-</td>
-
-<td align="center">
-<img src="https://media1.tenor.com/m/OEb00yekhEQAAAAd/deltarune-dark-fountain.gif" width="450"/>
-</td>
-
-<td align="right" valign="top">
-<img src="https://i.pinimg.com/1200x/be/cd/69/becd690c584a03b876c5e6016deddb67.jpg" width="250"/>
-</td>
-
 
 
 <!-- Redes Sociales -->
 <p align="center">
   <a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0871.gif" border="0" alt="mini-gif-imagen-animada-0871" /></a><img src="https://img.shields.io/badge/Discord-.dante.k-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0871.gif" border="0" alt="mini-gif-imagen-animada-0871" /></a>
 </p>
-
-<br>
 
 
 https://github.com/user-attachments/assets/752fcaf3-a161-4075-a2c7-e11d6a7f4cb7
@@ -76,8 +59,6 @@ https://github.com/user-attachments/assets/752fcaf3-a161-4075-a2c7-e11d6a7f4cb7
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=200&lines=See+yah" />
 </p>
-
-
   <p align="center">
 <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0069.gif" border="0" alt="mariposa-imagen-animada-0069" /></a>  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanE0cTAycG01bXh4bXpkb3V3a3YyMGFzdjJ2MHl5b29odTRlcXJ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWl8rUrX3gzJebetaZ/giphy.gif"
        width="500"
@@ -89,5 +70,3 @@ https://github.com/user-attachments/assets/752fcaf3-a161-4075-a2c7-e11d6a7f4cb7
     <img src="https://www.gifsanimados.org/data/media/134/linea-divisoria-imagen-animada-0202.gif"
          width="95%"
          alt="Línea divisoria animada"/>
-  </a>
-</p>
