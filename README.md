@@ -40,15 +40,13 @@
 <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0143.gif" border="0" alt="mariposa-imagen-animada-0143" /></a>
 </p></p>
 <!-- Texto animado -->
-<p align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&speed=50&pause=2500&color=2563EB&center=true&vCenter=true&width=1000&lines=Well,+there's+nothing+here.." />
 </p>
 
 
-
-<!-- Redes Sociales -->
 <p align="center">
-  <a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0871.gif" border="0" alt="mini-gif-imagen-animada-0871" /></a><img src="https://img.shields.io/badge/Discord-.dante.k-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0871.gif" border="0" alt="mini-gif-imagen-animada-0871" /></a>
+<a href="https://www.gifsanimados.org/cat-mini-gifs-99.htm"><img src="https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-0871.gif" border="0" alt="mini-gif-imagen-animada-0871" /></a>
 </p>
 
 
